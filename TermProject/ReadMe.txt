@@ -14,20 +14,19 @@
 -----------------------------------------------------------------------------------------------------------------------
 
 
-    Project Developer and test with Visual Studio 2019
+    Project Developed and tested with Visual Studio 2019
 
     Test files are added under Resource File on VS FolderBase
 
     MyFunctions.cpp, MyFunctions.h and MyMessages.h are created to optimize code re-usage and clean code
 
-    intsllist.cpp nad intsllist.h are from our LabWorks, I have modified them in order to use.
+    intsllist.cpp nad intsllist.h are from our LabWorks at university, I made some modifications on them in order to use.
 
 
 -----------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------
     References :
-    I got some help from stackoverflow but not directly copy paste
-    I understand them and modified them
+    I got some help from stackoverflow but not directly copy paste. I understand them and modified them
 
 
 1-  SplitStringByDelimiterToArray
