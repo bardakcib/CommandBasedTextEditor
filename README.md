@@ -1,5 +1,7 @@
 # Command Based Text Editor
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)      [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 Our goal in this project is to write a command-based text editor in cpp using [linked lists](https://www.geeksforgeeks.org/data-structures/linked-list/) and [stack](https://www.geeksforgeeks.org/stack-in-cpp-stl/).
 
 This text editor will print the contents of a file to the screen, page by page.
