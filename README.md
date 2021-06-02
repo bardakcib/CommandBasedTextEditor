@@ -6,17 +6,17 @@ This text editor will print the contents of a file to the screen, page by page.
 
 Each page consists of 10 lines. An example image is given below.
 
-![](https://raw.githubusercontent.com/bardakcib/CommandBasedTextEditor/master/res/commandList.png)
+![](https://raw.githubusercontent.com/bardakcib/CommandBasedTextEditor/master/res/mainPage.png)
 
 I have implemented a stack to keep track of all actions carried out, so you can undo actions if needed.
 
 Sample txt files are included to the &quot;Resource Files&quot; folder of the project
 
-![](RackMultipart20210602-4-y9nfnl_html_3591410863e2fd4d.png)
+![](https://raw.githubusercontent.com/bardakcib/CommandBasedTextEditor/master/res/vs2019test.png)
 
 ## Main Commands:
 
-![](RackMultipart20210602-4-y9nfnl_html_72b267963f418752.png)
+![](https://raw.githubusercontent.com/bardakcib/CommandBasedTextEditor/master/res/commandList.png)
 
 - **open filename:** The program should open the file whose name is provided in the field `filename` and loads its contents. For example, if the user enters &quot;_open test.txt_&quot;, your program should open test.txt and load each line in the file to the linked list.
 
@@ -24,7 +24,8 @@ Sample txt files are included to the &quot;Resource Files&quot; folder of the pr
 
 - **insert n text:** The program should insert a new line with the &quot;text&quot; area user entered to the n_th_ line. For example, if the user enters &quot;insert 5 hello my friend&quot;, your program should insert a new line at line position 5 and put &quot;hello my friend&quot; in that line.
 
-If the .txt file already contains more than n lines, it should insert thin new line between lines n-1 and n, putting the newly inserted text at line n. If the file contains less than n lines, it should fill the gap with blank lines until the newly inserted line becomes at position n.
+  If the .txt file already contains more than n lines, it should insert thin new line between lines n-1 and n, putting the newly inserted text at line n. If the file contains   
+  less than n lines, it should fill the gap with blank lines until the newly inserted line becomes at position n.
 
 - **delete n:** The program should delete the line at position n.
 
