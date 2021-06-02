@@ -6,7 +6,7 @@ This text editor will print the contents of a file to the screen, page by page.
 
 Each page consists of 10 lines. An example image is given below.
 
-![](RackMultipart20210602-4-y9nfnl_html_af7ceefb7df3475.png)
+![](https://raw.githubusercontent.com/bardakcib/CommandBasedTextEditor/master/res/commandList.png)
 
 I have implemented a stack to keep track of all actions carried out, so you can undo actions if needed.
 
